@@ -1,6 +1,6 @@
 {
   "name": "roadready",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reverse-engineered API wrapper package for RoadReady.",
   "main": "dist/index.js",
   "dependencies": {
